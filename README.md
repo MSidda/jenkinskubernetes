@@ -1,4 +1,3 @@
-# jenkinskubernetes
+# jenkins kubernetes
 
-[![Build status](https://sidda.visualstudio.com/Test/_apis/build/status/Test-CI)](https://sidda.visualstudio.com/Test/_build/latest?definitionId=44)
 Deploy apps to kubernetes using Jenkins CICD
